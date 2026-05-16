@@ -10,9 +10,9 @@ const projects = [
     title: "Fashion E-commerce Scale",
     client: "Luxury Fashion Brand",
     category: "E-commerce",
-    metric: "400% Revenue Growth",
+    metric: "200% Revenue Growth",
     description:
-      "Complete e-commerce rebuild with Meta advertising campaigns that drove 4x revenue growth in 6 months",
+      "Complete e-commerce rebuild with Meta advertising campaigns that drove 2x revenue growth in 6 months",
     image: "gradient-1",
   },
   {
@@ -20,9 +20,9 @@ const projects = [
     title: "Fintech App Launch",
     client: "Banking Tech Startup",
     category: "Development",
-    metric: "100K+ Downloads",
+    metric: "10K+ Downloads",
     description:
-      "Flutter app development with seamless UX that achieved 100K downloads in first 3 months",
+      "Flutter app development with seamless UX that achieved 10K downloads in first 3 months",
     image: "gradient-2",
   },
   {
